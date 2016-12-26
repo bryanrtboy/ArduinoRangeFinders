@@ -15,7 +15,7 @@ using UnityEngine.UI;
 
 namespace ArduinoSerialReader
 {
-	public class SerialReader : MonoBehaviour
+	public class ReadSerialFromMaxBotixHRLV : MonoBehaviour
 	{
 		public Dropdown m_dropDownList;
 		//For Mac, my serial port name is /dev/cu.usbserial-AM01PK2W
